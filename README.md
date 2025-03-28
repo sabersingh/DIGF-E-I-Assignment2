@@ -13,6 +13,8 @@ The Life Projector visually represents the five stages of human life using a sha
 4.  **Old Age** (Aging)
     
 5.  **Death** (End of Life)
+
+![Setting up the animation frame](Animation_Frame_Setup.jpeg)
     
 
 This interactive installation uses an **Arduino Uno R4 WiFi** to track the user's distance and trigger corresponding life stage animations and soundscapes.
@@ -57,6 +59,12 @@ P.S. Due to some technical issues, we limited the code to work with only 3 stage
 -   Secure the **light bulb** and **Fresnel lens** in place.
     
 -   Place the **transparent animation sheets** on the moving rack.
+
+![Basic setup and testing the mechanism](Setup_Image_Test.jpeg)
+
+![Testing the image projection on the wall](Setup_Image_Test_On_Wall.jpeg)
+
+![Final setup of the projector](Setup_Image_Final.jpeg)
     
 
 ### **2. Software Setup**
@@ -68,6 +76,8 @@ P.S. Due to some technical issues, we limited the code to work with only 3 stage
 -   Open **Logic Pro** and assign key inputs (`d`, `f`, `g`) to trigger soundscapes.
     
 -   Run the system and move through the room to see the life stages projected.
+
+![Final setup testing with soundscape software](Setup_Image_Test_WithSoftware.jpeg)
 
 
 # Future Improvements
