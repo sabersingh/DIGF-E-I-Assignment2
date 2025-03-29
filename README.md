@@ -51,7 +51,8 @@ P.S. Due to some technical issues, we limited the code to work with only 3 stage
 ## Installation & Usage
 Watch the video on YouTube🎥 👇👇
 
-[![YouTube](http://i.ytimg.com/vi/wUKeC30f46o/hqdefault.jpg)](https://www.youtube.com/watch?v=wUKeC30f46o)
+[![YouTube video of the installation](http://i.ytimg.com/vi/wUKeC30f46o/hqdefault.jpg)](https://www.youtube.com/watch?v=wUKeC30f46o)
+Or use this link to open the video on YT: [https://www.youtube.com/watch?v=wUKeC30f46o](https://www.youtube.com/watch?v=wUKeC30f46o)
 
 ### **1. Hardware Setup**
 
