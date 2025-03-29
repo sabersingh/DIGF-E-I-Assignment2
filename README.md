@@ -49,6 +49,7 @@ P.S. Due to some technical issues, we limited the code to work with only 3 stage
 
 
 ## Installation & Usage
+[![YouTube](http://i.ytimg.com/vi/wUKeC30f46o/hqdefault.jpg)](https://www.youtube.com/watch?v=wUKeC30f46o)
 
 ### **1. Hardware Setup**
 
